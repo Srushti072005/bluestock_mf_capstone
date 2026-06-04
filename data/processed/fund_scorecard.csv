@@ -1,0 +1,6 @@
+Scheme,CAGR_%,Sharpe_Ratio,Sortino_Ratio,Max_Drawdown_%,Alpha_%,Beta,R_Squared,CAGR_Rank,Sharpe_Rank,Alpha_Rank,DD_Rank,Composite_Score,Final_Rank
+Kotak Bluechip,43.67,2.7436,4.806,-3.03,47.3313,1.5394,0.7379,1.0,1.0,1.0,3.0,1.2,1.0
+ICICI Bluechip,-21.47,-2.3519,-3.2192,-4.25,-20.5415,1.7274,0.9392,4.0,2.0,4.0,2.0,2.8,2.0
+Axis Bluechip,2.34,-7.7037,-14.0693,-0.15,2.0467,-0.0015,0.0004,2.0,5.0,2.0,5.0,3.0,3.0
+SBI Bluechip,-0.62,-5.7968,-9.1502,-0.56,-0.9204,0.0727,0.1731,3.0,4.0,3.0,4.0,3.1,4.0
+Nippon Large Cap,-25.57,-2.9821,-4.1117,-4.7,-27.9162,1.6619,0.9251,5.0,3.0,5.0,1.0,3.4,5.0
